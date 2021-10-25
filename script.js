@@ -21,7 +21,7 @@ main.onmousemove = e =>{
   else if(e.x > 1000 && e.y < 672 && e.y > 130){
     main.classList.add("right")
   } 
-  else if(e.x < 1000 && e.y < 672 && e.y > 130){
+  else if(e.x < 600 && e.y < 672 && e.y > 130){
     //clear()
     main.classList.add("left")
   }

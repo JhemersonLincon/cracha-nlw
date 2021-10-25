@@ -4,7 +4,7 @@ const SocialMediaLinks = {
   youtube:"linhouse",
   facebook:"nada",
   instagram:"jhemerson.lincon",
-  twitter:"ordemparanormal"
+  twitter:"LinhoHa"
 }
 function ChangeSocialMediaLinks(){
   for(let li of SocialMedia.children){

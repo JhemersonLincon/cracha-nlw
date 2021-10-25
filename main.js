@@ -1,8 +1,8 @@
 
 const SocialMediaLinks = {
   github:"JhemersonLincon",
-  youtube:"linhouse",
-  facebook:"nada",
+  youtube:"",
+  facebook:"",
   instagram:"jhemerson.lincon",
   twitter:"LinhoHa"
 }

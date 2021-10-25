@@ -10,6 +10,7 @@ function clear(){
 main.onmousemove = e =>{
   
   clear()
+  console.log(e.x,e.y)
   if(e.y > 672){
 
     main.classList.add("bottom")
